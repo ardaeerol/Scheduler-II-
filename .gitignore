@@ -3,6 +3,7 @@ JobScheduler$MinHeap.class
 JobScheduler$core.class
 JobScheduler.class
 Surucu.class
+job.class
 
 # Log file
 *.log
